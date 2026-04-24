@@ -109,9 +109,9 @@ This project uses IEEE 802.1Q tagging to identify VLAN traffic.
 Successful communication between VLANs:
 
 ```
-PC0> ping 192.168.20.2
+PC1> ping 192.168.10.2
 
-Reply from 192.168.20.2: bytes=32 time<1ms TTL=128
+Reply from 192.168.10.2: bytes=32 time<1ms TTL=128
 ```
 
 ---
